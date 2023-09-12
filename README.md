@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @joscaz a student of Computer Science student.
 - 👀 I’m interested in: All the things related to software development, research and creation of new technologies using computer science.
-- 🌱 I’m currently learning: Javascript, software compostition, Full-Stack, Typescript and Node book.
+- 🌱 I’m currently learning and using: Javascript, TypeScript, Vue-Vuetify, NodeJS, and Swift for mobile.
 - 📫 How to reach me: joscazertuche@gmail.com
 
 <!---
