@@ -1,6 +1,6 @@
 # Always learning something new!
 
-- 👋 Hi, I’m @joscaz a student of Computer Science student.
+- 👋 Hi, I’m @joscaz a 5th semester student of Computer Science @ Tec de Monterrey.
 - 👀 I’m interested in: All the things related to software development, research and creation of new technologies using computer science.
 - 🌱 I’m currently learning and using: Javascript, TypeScript, NextJS, Vue-Vuetify - Quasar, NodeJS, Swift, and DRF.
 - 📫 How to reach me: joscazertuche@gmail.com
