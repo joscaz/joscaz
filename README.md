@@ -13,9 +13,9 @@
   <img src="https://komarev.com/ghpvc/?username=joscaz&style=flat-square&color=blue" alt=""/>
 </div>
 
-- 👋 Hi, I’m @joscaz a 5th semester student of Computer Science @ Tec de Monterrey.
-- 👀 I’m interested in: All the things related to software development, research and creation of new technologies using computer science.
-- 🌱 I’m currently learning and using: Javascript, TypeScript, NextJS, Vue-Vuetify - Quasar, NodeJS, Swift, DRF, Java, C#, and C++.
+- 👋 Hi, I’m @joscaz a 6th semester student of Computer Science @ Tec de Monterrey.
+- 👀 I’m interested in software development, operating systems, and the creation of new technologies.
+- 🌱 My favorite programming languages are: Python and C/C++ 
 - 📫 How to reach me: joscazertuche@gmail.com or through my [LinkedIn](https://www.linkedin.com/in/jose-carlos-zertuche-de-la-cruz-278b3b215/)
 
 <!---
