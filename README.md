@@ -13,10 +13,10 @@
   <img src="https://komarev.com/ghpvc/?username=joscaz&style=flat-square&color=blue" alt=""/>
 </div>
 
-- 👋 Hi, I’m @joscaz a last year student of Computer Science @ Tec de Monterrey.
-- 👀 I’m interested in software development, operating systems, and the creation of new technologies.
-- 🌱 My favorite programming languages are: Python and C/C++ 
-- 📫 How to reach me: joscazertuche@gmail.com or through my [LinkedIn](https://www.linkedin.com/in/jose-carlos-zertuche-de-la-cruz-278b3b215/)
+- Hi, I’m @joscaz a recent CS graduate @ Tec de Monterrey, Co-Founder of InsiderFM and Software Engineer 2 @ Oracle.
+- I’m interested in software development, operating systems, databases development, and the creation of new technologies.
+- My favorite programming languages are: Python, C/C++, and Typescript. 
+- How to reach me: joscazertuche@gmail.com or through my [LinkedIn](https://www.linkedin.com/in/jose-carlos-zertuche-de-la-cruz-278b3b215/)
 
 <!---
 joscaz/joscaz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
