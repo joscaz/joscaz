@@ -1,6 +1,5 @@
 # Always learning something new!
-
-<div id="header" align="center">
+<!-- <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   <div id="badges">
     <a href="https://www.linkedin.com/in/jose-carlos-zertuche-de-la-cruz-278b3b215/">
@@ -11,12 +10,12 @@
     </a>
   </div>
   <img src="https://komarev.com/ghpvc/?username=joscaz&style=flat-square&color=blue" alt=""/>
-</div>
+</div> -->
 
 - Hi, I’m @joscaz a recent CS graduate @ Tec de Monterrey, Co-Founder of InsiderFM, ex-Oracle and Member of Technical Staff at Replit.
 - I’m interested in software development, operating systems, databases development, and the creation of new technologies.
 - My favorite programming languages are: Python, C/C++, and Typescript. 
-- How to reach me: joscazertuche@gmail.com or through my [LinkedIn](https://www.linkedin.com/in/jose-carlos-zertuche-de-la-cruz-278b3b215/)
+- How to reach me: joscazertuche@gmail.com or through my [LinkedIn](https://www.linkedin.com/in/joscaz/)
 
 <!---
 joscaz/joscaz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
